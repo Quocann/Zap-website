@@ -1,0 +1,32 @@
+{
+  "service": "Zap Trading Signals",
+  "plans": [
+    {
+      "name": "Free",
+      "price": 0,
+      "features": ["1 signal/week", "Basic updates", "Community access"],
+      "subscribers": 0
+    },
+    {
+      "name": "Pro",
+      "price": 19,
+      "period": "month",
+      "features": ["Daily signals (3-5)", "Real-time alerts", "SL/TP levels", "Weekly report"],
+      "subscribers": 0
+    },
+    {
+      "name": "VIP",
+      "price": 49,
+      "period": "month",
+      "features": ["Everything Pro", "1-on-1 coaching", "Custom strategy", "Early access"],
+      "subscribers": 0
+    }
+  ],
+  "stats": {
+    "totalSignals": 0,
+    "winRate": 0,
+    "activeSubscribers": 0
+  },
+  "created": "2026-04-05",
+  "autonomous": true
+}
